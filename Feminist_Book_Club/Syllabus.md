@@ -1,17 +1,8 @@
-#Title
-
-##Subtitle
-###Syntax
-####strong and Emphasize
-####Blockquotes
->right angle brackets &gt; are used for block quotes.
-
-
-[hyperlink](http:www.xyz.com)
-*italics*
-**strong**
-
-Who to invite: Amanda, Maggie, Annie, Lynn, Josh, Fia, Julia, Jordan, Challen, Kim, Sam Hagerbaumer, Jacquelyn, Evie, Danny, Lee, Nick, Bryan
+---
+layout: page
+title: Syllabus
+permalink: /syllabus/
+---
 
 
 ##Definition of Feminism 

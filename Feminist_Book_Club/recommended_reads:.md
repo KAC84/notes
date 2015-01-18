@@ -4,4 +4,5 @@
 iTunes U syallbus on Women's Studies
 
 
-Susan Sontag
+
+Do It Anyway: The New Generation of Activists by Courtney Martin
