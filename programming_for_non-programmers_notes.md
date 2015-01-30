@@ -223,12 +223,11 @@ API stands for Application Programming Interface. Grants one computer access to 
 * Popular tools: Github, BitBucket
 
 
-#### Make sure it works! 
+**Excercise:** 
 
-* If hiring coders ask if they test
-
-
-
+1. Get to Google Chrome
+2. Open Up Chrome Dev Tools (control, command, i)
+3. Setup Screen As Pictured 
 
 
 
