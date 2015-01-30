@@ -120,7 +120,12 @@ They automate things to make our lives easier.
 
 Coding idiom: Keep it dry (means don't repeat yourself)
 
+#### What can I build?
 
+* websites
+* web applications
+* native apps
+* other things
 
 
 
