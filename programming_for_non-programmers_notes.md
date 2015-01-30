@@ -150,11 +150,11 @@ Coding idiom: Keep it dry (means don't repeat yourself)
 #### Create a User Story
 Answer these three questions:
 
-* as a <role>
+* I as a (role at company)
 * I want to (goal)
-* in order to ()benefit)
+* in order to (benefit)
 
-##### Question your team need to be asking:
+#### Question your team need to be asking:
 
 * who are our users? (audience)
 * what are their goals? (interface)
@@ -164,8 +164,7 @@ Answer these three questions:
 * what do we need to do in order to make this happen more often?
 
 
-
-Project Management Systems:
+#### Project Management Systems:
 
 * Asana (good storage)
 * Pivotal Tracker
