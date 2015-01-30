@@ -113,7 +113,7 @@ They automate things to make our lives easier.
 * mark things up (HTML/CSS)
 * keeping track of things (variables)
 * making decisions (if>then)
-* reapting things (loops)
+* repeating things (loops)
 * displaying things
 * logs things (log files)
 * storing things (databases)
