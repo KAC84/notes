@@ -226,7 +226,6 @@ API stands for Application Programming Interface. Grants one computer access to 
 #### Make sure it works! 
 
 * If hiring coders ask if they test
-* 
 
 
 
