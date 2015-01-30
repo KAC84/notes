@@ -210,17 +210,23 @@ and [Wirify](http://www.wirify.com/)
 Daily stand up meetings: what you plan to accomplish today, what you need help with, what is being delayed.
 
 
-####Should I use an API? 
+#### Should I use an API? 
 API stands for Application Programming Interface. Grants one computer access to another computers database. 
 
 
-####Version Control
+#### Version Control
 
 * keep track of the version of code
 * collaborate with others.
 * keep track of who contributed.
 * Open-source (release it to the world for free!)
 * Popular tools: Github, BitBucket
+
+
+#### Make sure it works! 
+
+* If hiring coders ask if they test
+* 
 
 
 
