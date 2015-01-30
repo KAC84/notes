@@ -134,13 +134,19 @@ Coding idiom: Keep it dry (means don't repeat yourself)
 * web designer
 * web developer (back end developer)
 * front end developer (front end engineer)
-* full stack developer
-* dev ops
-* ux designer (photoshop/illustrator)
-* ui designer (photoshop/illustrator)
+* full stack developer (float between front and back end)
+* dev ops (liason between IT, database, server processes, very technical job)
+* ux designer (user experience...researh how people use the website.)
+* ui designer (user interactive...dealing with the interfaces. Testing out aesthetic of website. Design with photoshop/illustrator.)
 * interaction designer
 * product manager
-* SEO specialist 
+* SEO specialist
+
+
+
+
+
+
 
 
 
