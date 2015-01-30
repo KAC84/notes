@@ -8,9 +8,6 @@ Interactive Developer, Now This
 <br /> 
 Follow @hsichang
 
-
-Used to be a Full Stack Engineer-both front and back end designer. Now mainly does front end, since it does a lot of heavy lifting now.
-
 Goals: 
 
 Day 1: Intro
