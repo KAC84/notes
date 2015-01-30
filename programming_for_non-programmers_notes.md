@@ -213,8 +213,8 @@ and [Wirify](http://www.wirify.com/)
 Daily stand up meetings: what you plan to accomplish today, what you need help with, what is being delayed.
 
 
-
-
+####Should I use an API? 
+API stands for Application Programming Interface. Grants one computer access to another computers database. 
 
 
 
