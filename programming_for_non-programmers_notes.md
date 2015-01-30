@@ -185,10 +185,11 @@ Buzzfeed: visual, busy, no hierarchy, colorful
 
 * blueprints for the site
 * flow charts
-* pre-wireframes (usign thumnails. Focus on idea generation. Can be hand written. Basic shapes don't spend too long)
-* wireframes. Used Google Chrome Web Store to get [Instant Wireframe](https://chrome.google.com/webstore/search/wireframe)
+* pre-wireframes (use thumnails. Focus on idea generation. Can be hand written. Basic shapes don't spend too long)
+* wireframes. 
+* * To see other sites wireframes: [Instant Wireframe](https://chrome.google.com/webstore/search/wireframe)
 and [Wirify](http://www.wirify.com/)
-* [wireframe.cc](https://wireframe.cc/) allows you to build and share wireframes
+* * [wireframe.cc](https://wireframe.cc/) allows you to build and share wireframes
 
 
 
