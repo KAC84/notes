@@ -192,8 +192,7 @@ and [Wirify](http://www.wirify.com/)
 * * [wireframe.cc](https://wireframe.cc/) allows you to build and share wireframes
 
 
-##### Methodology for Stucturing a Team:
-
+#### Methodology for Stucturing a Team:
 
 **Waterfall**
 
