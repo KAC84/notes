@@ -142,6 +142,34 @@ Coding idiom: Keep it dry (means don't repeat yourself)
 * product manager
 * SEO specialist
 
+##### Stages of Web Development
+* design
+* develop
+* test
+
+#### Create a User Story
+Answer these three questions:
+
+* as a <role>
+* I want to (goal)
+* in order to ()benefit)
+
+##### Question your team need to be asking:
+
+* who are our users? (audience)
+* what are their goals? (interface)
+* why do they suport us? (purpose)
+* what aretheir habits?
+* when are they visiting?
+* what do we need to do in order to make this happen more often?
+
+
+
+Project Management Systems:
+
+* Asana (good storage)
+* Pivotal Tracker
+* Basecamp
 
 
 
