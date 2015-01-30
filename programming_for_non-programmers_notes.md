@@ -225,7 +225,7 @@ API stands for Application Programming Interface. Grants one computer access to 
 
 **Excercise:** 
 
-1. Get to Google Chrome
+1. Go to Google Chrome
 2. Open Up Chrome Dev Tools (control, command, i)
 3. Setup Screen As Pictured 
 
