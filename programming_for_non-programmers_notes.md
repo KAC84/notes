@@ -214,6 +214,14 @@ Daily stand up meetings: what you plan to accomplish today, what you need help w
 API stands for Application Programming Interface. Grants one computer access to another computers database. 
 
 
+####Version Control
+
+* keep track of the version of code
+* collaborate with others.
+* keep track of who contributed.
+* Open-source (release it to the world for free!)
+* Popular tools: Github, BitBucket
+
 
 
 
