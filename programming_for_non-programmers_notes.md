@@ -129,6 +129,19 @@ Coding idiom: Keep it dry (means don't repeat yourself)
 
 ### Section 4: Web Developemnt
 
+##### Who makes the web?
+
+* web designer
+* web developer (back end developer)
+* front end developer (front end engineer)
+* full stack developer
+* dev ops
+* ux designer (photoshop/illustrator)
+* ui designer (photoshop/illustrator)
+* interaction designer
+* product manager
+* SEO specialist 
+
 
 
 
