@@ -122,12 +122,13 @@ Coding idiom: Keep it dry (means don't repeat yourself)
 
 #### What can I build?
 
-* websites
-* web applications
+* websites (static)
+* web applications (processes/servers data)
 * native apps
 * other things
 
 ### Section 4: Web Developemnt
+
 
 
 
