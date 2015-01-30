@@ -210,6 +210,7 @@ and [Wirify](http://www.wirify.com/)
 * more communication between groups
 * responding to change
 
+Daily stand up meetings: what you plan to accomplish today, what you need help with, what is being delayed.
 
 
 
