@@ -192,6 +192,30 @@ and [Wirify](http://www.wirify.com/)
 * * [wireframe.cc](https://wireframe.cc/) allows you to build and share wireframes
 
 
+##### Methodology for Stucturing a Team:
+
+
+**Waterfall**
+
+* Strict parameters of success, features, deadline.
+* one chance to get produce tirght
+* less opportunity for feedback
+* less communication btwn different groups
+* following a plan
+
+**Agile**
+
+* allows you to pivot
+* many changes to get the product right
+* more opportunity for feedback
+* more communication between groups
+* responding to change
+
+
+
+
+
+
 
 
 
