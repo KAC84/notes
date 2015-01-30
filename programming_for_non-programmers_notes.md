@@ -142,7 +142,7 @@ Coding idiom: Keep it dry (means don't repeat yourself)
 * product manager
 * SEO specialist
 
-##### Stages of Web Development
+#### Stages of Web Development
 * design
 * develop
 * test
@@ -154,6 +154,13 @@ Answer these three questions:
 * I want to (goal)
 * in order to (benefit)
 
+#### Project Management Systems:
+
+* Asana (good storage)
+* Pivotal Tracker
+* Basecamp
+
+
 #### Question your team need to be asking:
 
 * who are our users? (audience)
@@ -164,11 +171,23 @@ Answer these three questions:
 * what do we need to do in order to make this happen more often?
 
 
-#### Project Management Systems:
+#### Design Steps
 
-* Asana (good storage)
-* Pivotal Tracker
-* Basecamp
+##### 1. User Experience (UX)
+
+Compare and contrast: [nytimes.com](http://www.nytimes.com/) vs. [buzzfeed](http://www.buzzfeed.com/)
+
+NYT: text, classic, hierachy of concerns, organized, b&w
+
+Buzzfeed: visual, busy, no hierarchy, colorful
+
+##### 2. Information Architecture (IA)
+
+* blueprints for the site
+* flow charts
+* pre-wireframes (usign thumnails. Focus on idea generation. Can be hand written. Basic shapes don't spend too long)
+* wireframes 
+
 
 
 
