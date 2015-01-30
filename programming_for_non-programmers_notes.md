@@ -58,9 +58,9 @@ comparison: think of a resaturant. Front end what the consumers see. Backend end
 
 ##### Front-End languages
 
-* HTML
-* CSS
-* Javascript
+* HTML (sturcture)
+* CSS (style)
+* Javascript (behavior)
 
 
 ##### Back-End languages
