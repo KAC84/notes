@@ -230,6 +230,16 @@ API stands for Application Programming Interface. Grants one computer access to 
 3. Setup Screen As Pictured 
 
 
+####DOM (Document Object Model)
+
+* parent
+* child
+* sibling
+* same tag, different parts of the tree
+* HTML, XHTML
+
+
+
 
 
 
