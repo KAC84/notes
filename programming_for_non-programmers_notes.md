@@ -282,9 +282,30 @@ Terminal: [iterm2](www.iterm2.com)
 * unzip the folder and rename the folder from html template to 'sandbox'
 
 
+**Alternatives to lorem ipsum**
 
+* [tupaccsum](http://www.rodrigo-silveira.com/tupacsum/)
+* [Hipster Ipsum](http://hipsum.co/)
 
+**Photo generators**
 
+* [Photo Kitten](https://placekitten.com/)
 
+Commenting Out Using HTML
+<!--link directly to google -->
+<!--<aref>-->
 
+**File extensions**
+
+* png=not lossy, transparency
+* jpeg=lossy, no transparency
+* gif=animated
+
+**links**
+
+* <a href="http://google.com">Google</a>
+* Using "target=blank" Opens new window/tab <a href="http://google.com"target=blank>Link 2</a></li>
+
+**Excercise:** [Travel Website](http://67.207.129.100/pfnp-nyc/jan-2015/kcowser/travel_student/)
+  
 
