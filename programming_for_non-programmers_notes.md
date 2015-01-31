@@ -18,8 +18,8 @@ Day 1: Intro
 
 Day 2: Front-End
 
-* javascript
-* CSS
+* HTML/CSS
+* Create your own website
 
 Day 3: Back-End
 
@@ -237,6 +237,31 @@ API stands for Application Programming Interface. Grants one computer access to 
 * sibling
 * same tag, different parts of the tree
 * HTML, XHTML
+
+###Day 2
+
+####Sections
+
+1. Setup Your Dev Environment
+2. Coding HTML-the basic
+3. Adding Style to Our Structure
+4. UX Tips
+5. Build Your Own Site
+
+Alternatively
+
+1. Setup Your Dev Environment
+2. Familiarize yourself with the new environm
+3. Refactor, refactor, refactor
+
+
+####Setup Your Dev Environment
+
+* text editor (sublime text)
+* file transfer client
+* terminal 
+
+[Getting started with sublime text 3:25 tips, tricks and shortcuts](https://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/)
 
 
 
