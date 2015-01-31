@@ -248,13 +248,6 @@ API stands for Application Programming Interface. Grants one computer access to 
 4. UX Tips
 5. Build Your Own Site
 
-Alternatively
-
-1. Setup Your Dev Environment
-2. Familiarize yourself with the new environm
-3. Refactor, refactor, refactor
-
-
 ####Setup Your Dev Environment
 
 * text editor (sublime text)
@@ -264,8 +257,29 @@ Alternatively
 [Getting started with sublime text 3:25 tips, tricks and shortcuts](https://blog.generalassemb.ly/sublime-text-3-tips-tricks-shortcuts/)
 
 
+####Syntax Highlighting
+
+In Sublime Text
+
+* preferences-color scheme-monokai
+* view -syntax-html
+
+File Transfer Client: [cyberduck](https://cyberduck.io/)
+
+Cyberduck is an open source client for FTP and SFTP, WebDAV, OpenStack Swift, and Amazon S3, available for Mac OS X and Windows (as of version 4.0) licensed under the GPL. Cyberduck is written in Java and C# using the Cocoa user interface framework on OS X and Windows Forms on Windows.
+
+Terminal: [iterm2](www.iterm2.com) 
 
 
+[Ruler](http://www.pascal.com/software/freeruler/) download to make sure site is pixel perfect.
+
+
+####Starting with a fresh template
+
+* open cyberduck
+* go to the directory
+* in the class-assets directory, download the html-template zip
+* unzip the folder and rename the folder from html template to 'sandbox'
 
 
 
