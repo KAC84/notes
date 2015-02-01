@@ -308,4 +308,110 @@ Commenting Out Using HTML
 
 **Excercise:** [Travel Website](http://67.207.129.100/pfnp-nyc/jan-2015/kcowser/travel_student/)
   
+#####Section 3
+
+#####Adding Style with CSS (Cascading Style Sheets)
+
+**Selectors**
+
+* selector{
+property: value; 
+property: value; 
+}
+
+* body{color:yellow
+
+**Types of Selectors**
+
+* elements
+* id
+* class
+* position in document
+
+**IDs & Classes**
+Ex: <p id="polite"class="greeting">"hello!"</p>
+<p class="greeting">Sup!</p>
+
+* ID = use once (indetifiable via hashtags #)
+* class=infinity
+
+**Properties**
+Types of properties
+eg: 
+
+* color
+* background color
+* font family 
+
+**colors**
+
+* name (red, yellow, green, blue, black, etc)
+* * There are 147 different "names"
+* hexadecimal (#FF0000)
+
+* rgb and rgba(red, green, blue) A means opacity
+* * rgb (100, 86, 92)
+* * rgba (100, 86, 92, .05)
+
+**Fonts**
+
+* font style, font-weight, font-size, font-color, font-family
+
+**Box Model**
+
+* content
+* padding
+* border
+* margin
+
+**HTML/CSS**
+code-along portfolio page
+
+
+####Day 3
+
+* modern UX and UI principles
+* why does my web app need a back-end?
+* programming concepts using ruby
+* web frameworks using ruby on rails
+* databases, servers, and tourings
+* Hello World...on rails.
+
+
+* Q: What is the root URL for any web directory. A: index.html (this is often hidden in the URL)
+* Q: What is a div? margins, border, padding, content. 
+* Q: What is an inline element? How does it differ from an outline element. 
+
+Cyberduck is an open source FTP client. 
+
+What does WYSIWG mean? What You See Is What You Get. Squarespace and Wordpress are WSIWGs. 
+
+#####UI
+
+[**Google Material Design**](http://www.google.com/design/) (living document. It's continually changing.) 
+
+* A design lanaguage developed by Google with increased use of grid-based layouts, responsive animations, and transitions, padding, and depth effects such as lighting and shadows.
+* based on paper and pen
+* material has physical surfaces and edges
+* seams and shadows provide meaning about what you can touch
+
+[**Google fonts**](https://www.google.com/fonts)
+
+* google suggests using Roboto
+* You can download form teh materical designs webpage or use it direclty from Google Fonts webpage
+
+**Contrast**
+
+* space and contrast are key to any good design.
+* a great example is text, consider contrasting serif fonts for the header, and large clar sans-serif fonts for the body.
+
+[Medium] (https://medium.com/ideo-stories/how-to-design-a-business-4-lessons-from-startups-efdcf0c622ff)
+
+[Google Design](http://www.google.com/design/spec/components/cards.html)
+
+
+
+
+
+
 
