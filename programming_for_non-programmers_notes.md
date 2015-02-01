@@ -409,6 +409,38 @@ What does WYSIWG mean? What You See Is What You Get. Squarespace and Wordpress a
 
 [Google Design](http://www.google.com/design/spec/components/cards.html)
 
+**Front-End Web Development** includes:
+
+* fonts
+* drop down menues
+* buttons
+* transitions
+* sliders
+* contact forms
+
+lanaguaes for front end: 
+
+* html
+* css
+* javascript
+* jQuery
+
+
+####Back-End Web Development
+
+Back end consists of:
+
+* server
+* application
+* database
+
+what we're building is the application/set of rules. 
+
+
+
+
+
+
 
 
 
