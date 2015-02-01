@@ -436,9 +436,17 @@ Back end consists of:
 
 what we're building is the application/set of rules. 
 
+#####Section 3 
+*what is ruby? an open source programming language. 
 
+Use Terminal or [iTerm2](http://iterm2.com/) on Mac. 
 
+Getting setup: terminal!
+Some commands:
 
+cd..=change directory up one level
+
+cd directory_name=change 
 
 
 
