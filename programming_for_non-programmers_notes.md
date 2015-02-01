@@ -448,6 +448,8 @@ cd..=change directory up one level
 
 cd directory_name=change 
 
+http://www.bsd.org/unixcmds.html
+
 
 
 
