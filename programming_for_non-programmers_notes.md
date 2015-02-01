@@ -437,7 +437,10 @@ Back end consists of:
 what we're building is the application/set of rules. 
 
 #####Section 3 
-*what is ruby? an open source programming language. 
+
+**Ruby Fundamentals** 
+
+*what is ruby? an open source programming language.
 
 Use Terminal or [iTerm2](http://iterm2.com/) on Mac. 
 
@@ -448,12 +451,93 @@ cd..=change directory up one level
 
 cd directory_name=change 
 
+irb = interactive ruby
+
 http://www.bsd.org/unixcmds.html
 
+String
+Text
+Boolean=means true, false
+
+**Arrays**
+set by the number that something has inside of it. Its coordinated by their sequence.
+
+arr= [   ]
+
+and arr = [ 2, 5, 15, 40, 36,]  
+
+array's have methods ex: arr.length=6
+
+**Hashs**
+hash is a variable built with keys and values. Often hear about the key/value pair. *very important
+
+hash = { }
+
+ex: person/author = { }
+
+**Key : Value**
+
+* name : sally
+* age : 16
+* education : name of college
+
+**Conditionals**
+If p then q
+
+eg: If Mario touches a coin then increaseteh core by 1
+
+[comparison operators for Ruby](http://www.tutorialspoint.com/ruby/ruby_operators.htm)
+
+**Loops**
+
+**Functions**
+def say_hello_to(name)
+
+say_hello_to Chris
+
+To start a ruby code:
+class 
+
+end
+
+####Frameworks
+
+**Front End Frameworks**
+
+* css: boostrap and foundation
+* javascript: angular, ember, meteor
+
+**Ruby on Rails**
+
+* an open source framework built using Ruby and devloped by DHH in 2004.
+* Rails is built 
+* rails makes scaffolding extermely quick
+* uses RESTful routes, which includes actions such as: create, new, edit, update, index, etc.
+* it includes a simpel web server called WEBrick and its own build system called Rake.
+* built on Ruby on Rails twitter, groupon, github, and many more. 
+
+**Model View Controller (MVC)**
+ 
+ 
+**What is a Database?**
+
+An organized collection of informaiton
+
+ * mySQL
+ * postgre SQL
+ * Oracle
+ * Mongo DB
+ 
+[Get Ruby on Rails via Desktop Editor Nitrous.io](https://www.nitrous.io/)
 
 
+* Every Ruby on Rails project creates a suite of files in a presnt format 
+* really only in app/ and test/
 
 
+ 
 
+
+ 
 
 
